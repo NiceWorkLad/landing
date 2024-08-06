@@ -1,0 +1,10 @@
+.button-green {
+  font-weight: 200;
+  padding: 15px 35px;
+  border-radius: 25px;
+  background-color: rgb(83, 206, 138);
+  transition: 0.3s;
+  color: white;
+  margin: 10px;
+  width: max-content;
+}
